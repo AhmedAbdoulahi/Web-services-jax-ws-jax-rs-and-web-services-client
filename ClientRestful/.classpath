@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-18">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/abdou/Downloads/jar_files/jersey-all-2.22.2.jar"/>
+	<classpathentry kind="lib" path="F:/LSI3/JEE/Workspace/jaxrs/src/main/webapp/WEB-INF/lib/jersey-all-2.22.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abdou/.m2/repository/mysql/mysql-connector-java/5.1.47/mysql-connector-java-5.1.47.jar" sourcepath="C:/Users/abdou/.m2/repository/mysql/mysql-connector-java/5.1.47/mysql-connector-java-5.1.47-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="mysql"/>
+			<attribute name="maven.artifactId" value="mysql-connector-java"/>
+			<attribute name="maven.version" value="5.1.47"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/abdou/Downloads/jersey-servlet-1.19.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abdou/Downloads/jersey-json-1.19.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abdou/Downloads/jersey-core-1.19.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abdou/Downloads/jersey-client-1.19.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abdou/Downloads/jaxrs-ri-2.30.zip"/>
+	<classpathentry kind="lib" path="C:/Users/abdou/Downloads/glassfish-7.0.0.zip"/>
+	<classpathentry kind="lib" path="C:/Users/abdou/Downloads/jersey.jar.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
